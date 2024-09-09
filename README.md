@@ -3,7 +3,7 @@ This comes just like a program and can be uninstalled.
 This runs on Minecraft 1.21 and is Fabric 0.16.5, this is a must!
 
 -------------------------------------------------------------------------
-FOR MOST COMPATIBILITY REMOVE MODS FROM MOD FOLDER BEFORE INSTALL! 
+WINDOWS TESTED, FOR MOST COMPATIBILITY REMOVE MODS FROM MOD FOLDER BEFORE INSTALL! 
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
