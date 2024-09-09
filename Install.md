@@ -1,2 +1,2 @@
-To install "[CharChar's Vanilla Experience](https://www.dropbox.com/scl/fi/m3rnxvn3npjtx774tvxkl/CharChar-s-Vanilla-Experience.zip?rlkey=ov6jfj1drdl4agfo90ewjl6bs&st=rdbyaw8q&dl=0)" Click this dropbox link.
+To install "[CharChar's Vanilla Experience](https://www.dropbox.com/scl/fo/1wd4iye515gg5m9ottc51/AMN7lWcuOkEOQ8zPBvqm-6w?rlkey=g0k1mo6bu8xwp6s60uwp0bwqm&st=pwuig2oe&dl=0)" Click this dropbox link.
 
