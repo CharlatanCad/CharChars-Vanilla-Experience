@@ -12,7 +12,7 @@ REMOVE MODS FROM MOD FOLDER BEFORE INSTALL!
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
-Be sure the Minecraft Launcher is closed before the install or re-opening it. The "release fabric-loader-0.16.5-1.21" will show  up in the installations when you click the new installation button then select from the drop down window. Run it and may have to set up some settings, but you're done.
+Be sure the Minecraft Launcher is closed before the install or re-opening it. The "release fabric-loader-0.16.5-1.21" will show  up in the installations on the launcher when you click the new installation button then select "release fabric-loader-0.16.5-1.21" from the drop down window. Run it and may have to set up some settings, but you're done.
 -------------------------------------------------------------------------
 After checking if this pack works first, you can drop your other mods back in your mod folder.
 Load a game and test it first. Then add your mods~
