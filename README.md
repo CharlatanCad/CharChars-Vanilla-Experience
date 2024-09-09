@@ -154,5 +154,5 @@ AccurateSpyglass,
 MossCarpetOverhang,
 
 -------------------------------------------------------------------------
-I have included the shader pack "[ComplementaryUnbound_r5.2.2]" Here is how to find the info on that. ~If you would like to turn that on? (https://www.curseforge.com/minecraft/shaders/complementary-unbound)
+I have included the shader pack "![ComplementaryUnbound_r5.2.2](https://www.curseforge.com/minecraft/shaders/complementary-unbound)" Here is how to find the info on that. ~If you would like to turn that on? 
 -------------------------------------------------------------------------
