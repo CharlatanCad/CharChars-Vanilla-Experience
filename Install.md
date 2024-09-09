@@ -9,4 +9,4 @@ To install Click this "[CharChar's Vanilla ExperienceV1.0](https://www.dropbox.c
 --------
 V1.1
 --------
-(Is in the works.)
+To install Click this "[CharChar's Vanilla ExperienceV1.1](https://www.dropbox.com/scl/fi/prsn9udp4q8q0zih72gjr/CharChar-s-Vanilla-ExperienceV1.1.zip?rlkey=9mnvthukk0ci9ov5ad54rst31&st=hhm5zdz0&dl=0)"  dropbox link & unzip the file to get the installer.
