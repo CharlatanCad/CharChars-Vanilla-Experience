@@ -1,12 +1,17 @@
 Check out the Mod Packs, Resource Packs & Data Packs used in this projects!
-This comes just like a program and can be uninstalled, other then the independent fabric installer.
+This comes just like a program and can be uninstalled.
 You will get a fabric loader pop up, this needs to be for Minecraft 1.21 and is Fabric 0.16.5 this is a must!
 
 -------------------------------------------------------------------------
 FOR MOST COMPATIBILITY REMOVE MODS FROM MOD FOLDER BEFORE INSTALL! 
 -------------------------------------------------------------------------
-The nice thing about this you can drop your mods back in after checking if this pack works first.
+
+-------------------------------------------------------------------------
+Be sure the Minecraft Launcher is closed before the install or reopen it. The "release fabric-loader-0.16.5-1.21" will show  up in the installations when you click the new installation button then select from the drop down window. Run it and may have to set up some settings, but you're done.
+-------------------------------------------------------------------------
+After checking if this pack works first, you can drop your other mods back in your mod folder.
 Load a game and test it first. Then add your mods~
+
 
 Animatica
 ObsidianUI
@@ -142,7 +147,6 @@ SplashXpBottle
 AccurateScaffolding
 AccurateSpyglass
 MossCarpetOverhang
-
 
 I have included the shader pack "ComplementaryUnbound_r5.2.2" Here is how to find the info on that. ~If you would like to turn that on?
 https://www.curseforge.com/minecraft/shaders/complementary-unbound
