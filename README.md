@@ -1,6 +1,6 @@
 Check out the Mod Packs, Resource Packs & Data Packs used in this projects!
 This comes just like a program and can be uninstalled.
-You will get a fabric loader pop up, this needs to be for Minecraft 1.21 and is Fabric 0.16.5 this is a must!
+This runs on Minecraft 1.21 and is Fabric 0.16.5, this is a must!
 
 -------------------------------------------------------------------------
 FOR MOST COMPATIBILITY REMOVE MODS FROM MOD FOLDER BEFORE INSTALL! 
