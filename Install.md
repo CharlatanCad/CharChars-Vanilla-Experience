@@ -1,2 +1,2 @@
 
-/deleting-file
+/deleting-files
