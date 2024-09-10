@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------
-**CharChars-Vanilla-Experience**
+**CharChar's Vanilla Experience**
 -------------------------------------------------------------------------
 Check out the Mod Packs, Resource Packs & Data Packs used in this project!
 This comes just like a program and can be uninstalled.
