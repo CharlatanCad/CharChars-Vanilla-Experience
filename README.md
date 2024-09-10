@@ -75,6 +75,7 @@ YetAnotherConfigLib,
 -------------------------------------------------------------------------
 VanillaTweaks
 -------------------------------------------------------------------------
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -107,6 +108,7 @@ VanillaTweaks
     <div class="clouds"></div>
 </body>
 </html>
+
 The pack has the following configuration:
 
 Parity,
