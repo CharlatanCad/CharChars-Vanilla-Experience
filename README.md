@@ -1,9 +1,9 @@
 Check out the Mod Packs, Resource Packs & Data Packs used in this projects!
 This comes just like a program and can be uninstalled.
 This runs on Minecraft 1.21 and is Fabric 0.16.5, this is a must!
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=(https://previews.dropbox.com/p/thumb/ACZtzvTKvS7NcnpokJCoqgK71rMAqhB1Vdmon_8zdk9BPlKaMzUFDLboW9DFk4RzLDVrFhGMo0P1lfKRp9AlJBwgqilWLM9rrNet3M-2I9DlhaP4lgL2H9nVu43HQ817M1iVMBQWQTOHv9nJMWeSFz_mnIvTLKoN3s8KKrtH2rkQGiEc45BPzKRssR0kLY31eHo9z9anlv5nEnoEXIylY0NmJtTPKbIER5KtU1N91yBPIBmfbKPHPU2RnpU-bwIgkdAdu-dPdTQ5vTj_rx5CIHEb-bdU0rIyKBbcMiTud-ygWaAnvLb580cTMD27u7jQspGgW6I45g-5s1nYYe4mUDHvARAVFXEoFYEuiaZlcHg5ww/p.png)">
-</picture>
+
+.md(https://previews.dropbox.com/p/thumb/ACZtzvTKvS7NcnpokJCoqgK71rMAqhB1Vdmon_8zdk9BPlKaMzUFDLboW9DFk4RzLDVrFhGMo0P1lfKRp9AlJBwgqilWLM9rrNet3M-2I9DlhaP4lgL2H9nVu43HQ817M1iVMBQWQTOHv9nJMWeSFz_mnIvTLKoN3s8KKrtH2rkQGiEc45BPzKRssR0kLY31eHo9z9anlv5nEnoEXIylY0NmJtTPKbIER5KtU1N91yBPIBmfbKPHPU2RnpU-bwIgkdAdu-dPdTQ5vTj_rx5CIHEb-bdU0rIyKBbcMiTud-ygWaAnvLb580cTMD27u7jQspGgW6I45g-5s1nYYe4mUDHvARAVFXEoFYEuiaZlcHg5ww/p.png)">
+
 -------------------------------------------------------------------------
 WINDOWS TESTED
 -------------------------------------------------------------------------
