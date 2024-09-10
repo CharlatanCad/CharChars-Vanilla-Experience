@@ -75,6 +75,38 @@ YetAnotherConfigLib,
 -------------------------------------------------------------------------
 VanillaTweaks
 -------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panning Clouds</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+        .clouds {
+            background-image: url('https://vanillatweaks.net/assets/images/clouds.png');
+            height: 100vh;
+            width: 200%; /* Make it wider than the screen for the panning effect */
+            background-repeat: repeat-x;
+            animation: pan 20s linear infinite;
+        }
+        @keyframes pan {
+            0% {
+                transform: translateX(0);
+            }
+            100% {
+                transform: translateX(-50%); /* Adjust this to control the panning speed */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="clouds"></div>
+</body>
+</html>
 The pack has the following configuration:
 
 Parity,
