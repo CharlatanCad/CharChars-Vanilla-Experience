@@ -1,4 +1,4 @@
-Check out the Mod Packs, Resource Packs & Data Packs used in this projects!
+Check out the Mod Packs, Resource Packs & Data Packs used in this project!
 This comes just like a program and can be uninstalled.
 This runs on Minecraft 1.21 and is Fabric 0.16.5, this is a must!
 
