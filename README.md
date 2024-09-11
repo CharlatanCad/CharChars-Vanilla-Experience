@@ -77,9 +77,11 @@ YetAnotherConfigLib,
 VanillaTweaks
 -------------------------------------------------------------------------
 <p align="center">
-  <img src="[(https://vanillatweaks.net/assets/images/logo.png)](https://vanillatweaks.net)" alt="Centered Image">
-
+  <a href="https://vanillatweaks.net">
+    <img src="https://vanillatweaks.net/assets/images/logo.png" alt="VanillaTweaks">
+  </a>
 </p>
+
 The pack has the following configuration:
 
 Parity,
