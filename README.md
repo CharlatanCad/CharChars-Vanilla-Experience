@@ -1,6 +1,9 @@
 -------------------------------------------------------------------------
 **CharChar's Vanilla Experience**
 -------------------------------------------------------------------------
+-------------------------------------------------------------------------
+**Must own Minecraft to use**
+-------------------------------------------------------------------------
 This installation is geared more towards content creation and will be getting updates as needed.
 Check out the Mod Packs, Resource Packs & Data Packs used in this project!
 This comes just like a program and can be uninstalled.
