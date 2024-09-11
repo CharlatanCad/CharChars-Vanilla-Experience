@@ -79,6 +79,7 @@ VanillaTweaks
 <p align="center">
   <a href="https://vanillatweaks.net">
     <img src="https://vanillatweaks.net/assets/images/logo.png" alt="VanillaTweaks">
+    click for website.
   </a>
 </p>
 
