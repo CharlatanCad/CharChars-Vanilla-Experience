@@ -77,7 +77,7 @@ YetAnotherConfigLib,
 VanillaTweaks
 -------------------------------------------------------------------------
 <p align="center">
-  <img src="[![VanillaTweaks](https://vanillatweaks.net/assets/images/logo.png)](https://vanillatweaks.net)" alt="Centered Image">
+  <img src="[(https://vanillatweaks.net/assets/images/logo.png)](https://vanillatweaks.net)" alt="Centered Image">
 
 </p>
 The pack has the following configuration:
