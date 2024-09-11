@@ -167,5 +167,8 @@ AccurateSpyglass,
 MossCarpetOverhang,
 
 -------------------------------------------------------------------------
+<p align="center">
+  <img src="https://media.forgecdn.net/avatars/thumbnails/875/480/256/256/638298072228596362.png" alt="Centered Image">
+</p>
 I have included the shader pack "[ComplementaryUnbound_r5.2.2](https://www.curseforge.com/minecraft/shaders/complementary-unbound)" Here is how to find the info on that. ~If you would like to turn that on? 
 -------------------------------------------------------------------------
