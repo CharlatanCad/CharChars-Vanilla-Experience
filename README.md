@@ -1,6 +1,7 @@
 -------------------------------------------------------------------------
 **CharChar's Vanilla Experience**
 -------------------------------------------------------------------------
+This is an installation meant for content creation and will be getting updates as needed.
 Check out the Mod Packs, Resource Packs & Data Packs used in this project!
 This comes just like a program and can be uninstalled.
 This runs on Minecraft 1.21 and is Fabric 0.16.5, this is a must!
