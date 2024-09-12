@@ -1,7 +1,8 @@
 -------------------------------------------------------------------------
 **CharChar's Vanilla Experience**
 -------------------------------------------------------------------------
-![image]([https://www.dropbox.com/scl/fi/zlo1en32sjyrrhdtdq6ju/Lighthouse.png?rlkey=7lghnemrq29o6043rexmb94db&st=d5mgukea&dl=0](https://previews.dropbox.com/p/thumb/ACa6aZDmJ8f3ZXyoz8pCWDAQWlliRELS7fX_RTbpUAZGKrvMOznIk8rVRHJLBuWtiSQbrEQu9k3ZFklKWu3k2b2jnWYcAm5Uq6IDbGAPC3GKMYqAvfbMztfMMykdcbErobYUCseMJMsfv3oIGmxbsXUfZCsx8bk9Kdm6G_PSmhsCp42jL61aiUSxYM4gubDQUReq-9DDEIUYpxR-1GNsoaYgU5GwftvLDuaOlMkWSOIiBmcGyq8-AxSYa7fxYQ6pPGxW9nn4da9zbz_2kclF8Gl74Dv-Kep2fLlRMJ0XzU-YPK7jT7ztsQvDAk-k0Jr01gwLUb5OZPOCUa2DIxE6-apYfJmgLaT_PfIigMofJYxp9FbuCFzGoHoIveTvenUY4Ibqc4L94SFF2sKVpfscMzWQ/p.png))
+![image]![Lighthouse](https://github.com/user-attachments/assets/87904455-292d-46d9-83ff-7d692b72c661)
+
 -------------------------------------------------------------------------
 **Must own Minecraft to use**
 -------------------------------------------------------------------------
