@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------
 **CharChar's Vanilla Experience**
 -------------------------------------------------------------------------
-![image]![Lighthouse](https://github.com/user-attachments/assets/87904455-292d-46d9-83ff-7d692b72c661)
+![Lighthouse](https://github.com/user-attachments/assets/87904455-292d-46d9-83ff-7d692b72c661)
 
 -------------------------------------------------------------------------
 **Must own Minecraft to use**
