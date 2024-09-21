@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------
 **CharChar's Vanilla Experience**
 -------------------------------------------------------------------------
-[[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://i9.ytimg.com/vi/-hJVV92GEes/mqdefault.jpg?sqp=COiwu7cG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChaMA8=&rs=AOn4CLDw0banzmCUk0tx9uIarkYIOK3dfw)](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)
+[[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://i9.ytimg.com/vi/-hJVV92GEes/mqdefault.jpg?sqp=COiwu7cG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChaMA8=&rs=AOn4CLDw0banzmCUk0tx9uIarkYIOK3dfw)](https://img.youtube.com/vi/-hJVV92GEes)
 
 -------------------------------------------------------------------------
 **Must own Minecraft to use**
