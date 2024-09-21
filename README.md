@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------
 **CharChar's Vanilla Experience**
 -------------------------------------------------------------------------
-[![YouTube](http://i.ytimg.com/vi/-hJVV92GEes/hqdefault.jpg)](https://www.youtube.com/watch?v=-hJVV92GEes)
+![Lighthouse](https://github.com/user-attachments/assets/87904455-292d-46d9-83ff-7d692b72c661)
 
 -------------------------------------------------------------------------
 **Must own Minecraft to use**
@@ -15,7 +15,8 @@ This runs on Minecraft 1.21 and is Fabric 0.16.5, this is a must!
 -------------------------------------------------------------------------
 WINDOWS TESTED
 -------------------------------------------------------------------------
-![Lighthouse](https://github.com/user-attachments/assets/87904455-292d-46d9-83ff-7d692b72c661)
+[![YouTube](http://i.ytimg.com/vi/-hJVV92GEes/hqdefault.jpg)](https://www.youtube.com/watch?v=-hJVV92GEes)
+
 -------------------------------------------------------------------------
 COMPATIBILITY
 -------------------------------------------------------------------------
